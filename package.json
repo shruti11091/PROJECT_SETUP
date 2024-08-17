@@ -1,7 +1,7 @@
 {
   "name": "project_setup",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "service.js",
   "directories": {
     "doc": "docs",
     "test": "tests"
